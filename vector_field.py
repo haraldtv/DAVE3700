@@ -13,8 +13,8 @@ x, y = np.meshgrid(np.linspace(-2, 2, 10),
 				np.linspace(-2, 2, 10))
 
 #Vectors
-u = 1+x**2
-v = x + y**3
+u =-y
+v = x
 
 plt.quiver(x, y, u, v, color="lightblue")
 plt.title('F = (1+x**2, x+y**3)')
