@@ -13,7 +13,8 @@ N = 500
 XMIN = -2*np.pi
 XMAX = 2*np.pi
 
-ax = plt.figure(figsize =(10, 10), dpi=800).add_subplot(projection='3d')
+#ax = plt.figure(figsize =(3, 2), dpi=400).add_subplot(projection='3d')
+ax = plt.figure().add_subplot(projection='3d')
 
 # Prepare arrays x, y, z
 z = np.linspace(XMIN, XMAX, N)
