@@ -1,0 +1,27 @@
+- 6.12.2023
+	- Oppgaver
+		- 6.5
+		- 6.6
+	- Pensum
+		- Til side 90
+- 7.12.2023
+	- Oppgaver
+		- 6.7
+		- 6.8
+		- 6.9
+	- Pensum
+		- Resten🎉
+- 8.12.2023
+	- Øvingssett
+		- 5 stk
+- 9.12.2023
+	- Øvingssett
+		- 3 stk
+	- Eksamen
+		- 2022 ord
+- 10.12.2023
+	- Middag morfar
+	- Eksamen
+		- 2022 kont
+		- 2021 ord
+		- 2021 kont
